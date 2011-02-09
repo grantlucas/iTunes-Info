@@ -9,3 +9,5 @@ Installation
 ============
 
 Store this Apple script file on your local machine and call from geektool with:
+
+osascript /path/to/script/folder/iTunesInfo.scpt
